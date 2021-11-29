@@ -1,0 +1,2 @@
+Nicolas,1234,Nicolas,Ramirez,Admin,C:\Alumnos\Luciana\TrabajoPractico\Archivo\Foto1.jpg
+Luciana,1234, Luciana, Martinez, Admin,C:\Alumnos\Luciana\TrabajoPractico\Archivo\Foto1.jpg
